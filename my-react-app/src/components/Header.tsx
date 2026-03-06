@@ -26,7 +26,7 @@ const Header = () => {
             <span className="font-mono text-primary-foreground font-bold text-sm">{`</>`}</span>
           </div>
           <span className="font-display font-bold text-lg text-foreground">
-            Dev<span className="text-primary">Stream</span>
+            D <span className="text-primary">Path</span>
           </span>
         </a>
 
